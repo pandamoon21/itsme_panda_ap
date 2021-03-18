@@ -17,3 +17,4 @@ Tạo VPS miễn phí cấu hình 2cpu-7gb Ram FREE với Github:
 - Ấn mũi tên xuống ở Connect To Your RPD để lấy IP, User, Password.
 
 #### Cre: https://github.com/ThuongHai
+*Ngrok.exe trong https://github.com/HerrscherW/Ngrok-Exe .
