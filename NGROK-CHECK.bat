@@ -6,7 +6,7 @@ curl -O https://raw.githubusercontent.com/HerrscherW/Windows2019RDP-AP/main/Disa
 curl -o "C:\Users\Public\Desktop\Fast Config VPS.exe" https://raw.githubusercontent.com/HerrscherW/Windows2019RDP-AP/main/FastConfigVPS_v5.1.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\EVKey Vietnamese Keyboard.exe" https://raw.githubusercontent.com/HerrscherW/Windows2019RDP-AP/main/EVKey64.exe > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\Idm 638 build18.exe" https://raw.githubusercontent.com/HerrscherW/Windows2019RDP-AP/main/Files/idman638build18.exe > out.txt 2>&1
-curl -o "C:\Users\Public\Desktop\IDM Full Toolkit 4.7.exe" https://raw.githubusercontent.com/HerrscherW/Windows2019RDP-AP//main/Files/IDMFullToolkit_4.7.exe > out.txt 2>&1
+curl -o "C:\Users\Public\Desktop\IDMFullToolkit_4.7.rar" https://raw.githubusercontent.com/HerrscherW/Windows2019RDP-AP//main/Files/IDMFullToolkit_4.7.rar > out.txt 2>&1
 curl -o "C:\Users\Public\Desktop\UniKeyNT.exe" https://raw.githubusercontent.com/HerrscherW/Windows2019RDP-AP/main/Files/UniKeyNT.exe > out.txt 2>&1
 net user administrator Admin12345 /add >nul
 net localgroup administrators administrator /add >nul
