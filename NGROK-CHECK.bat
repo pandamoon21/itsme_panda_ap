@@ -19,6 +19,6 @@ ICACLS C:\Windows\installer /grant administrator:F >nul
 ICACLS C:\Program Files (x86) /grant administrator:F >nul
 echo All done! Connect your VM using RDP. When RDP expired and VM shutdown, Re-run jobs to get a new RDP.
 echo IP:
-IP in ngrok endpoints for safety purpose. :)
+echo Find IP in ngrok endpoints for safety purpose. :)
 PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './DisablePasswordComplexity.ps1'" > out.txt 2>&1
 ping -n 10 127.0.0.1 >nul
