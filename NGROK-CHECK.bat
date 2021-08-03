@@ -21,4 +21,5 @@ echo All done! Connect your VM using RDP. When RDP expired and VM shutdown, Re-r
 echo IP:
 echo Find IP in ngrok endpoints for safety purpose. :)
 PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './DisablePasswordComplexity.ps1'" > out.txt 2>&1
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& './ChangeSystemLocale.ps1'" > out.txt 2>&1
 ping -n 10 127.0.0.1 >nul
